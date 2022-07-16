@@ -1,0 +1,6 @@
+finalise font selections
+finalise color selections
+finalise location font and size selections
+align h1 in navbar to center in all screen sizes; currently only centered on large screen. 
+
+restart from 20:55 btn styles
